@@ -8,3 +8,13 @@ C:\Users\ra2457066\source\repos\Cassino\CacaNiquel\obj\Debug\CacaNiquel.csproj.G
 C:\Users\ra2457066\source\repos\Cassino\CacaNiquel\obj\Debug\CacaNiquel.csproj.CoreCompileInputs.cache
 C:\Users\ra2457066\source\repos\Cassino\CacaNiquel\obj\Debug\CacaNiquel.exe
 C:\Users\ra2457066\source\repos\Cassino\CacaNiquel\obj\Debug\CacaNiquel.pdb
+C:\Users\ra2457066\source\repos\joao-Pedro26\Cassino1\CacaNiquel\bin\Debug\CacaNiquel.exe.config
+C:\Users\ra2457066\source\repos\joao-Pedro26\Cassino1\CacaNiquel\bin\Debug\CacaNiquel.exe
+C:\Users\ra2457066\source\repos\joao-Pedro26\Cassino1\CacaNiquel\bin\Debug\CacaNiquel.pdb
+C:\Users\ra2457066\source\repos\joao-Pedro26\Cassino1\CacaNiquel\obj\Debug\CacaNiquel.csproj.AssemblyReference.cache
+C:\Users\ra2457066\source\repos\joao-Pedro26\Cassino1\CacaNiquel\obj\Debug\CacaNiquel.CacaNiquel.resources
+C:\Users\ra2457066\source\repos\joao-Pedro26\Cassino1\CacaNiquel\obj\Debug\CacaNiquel.Properties.Resources.resources
+C:\Users\ra2457066\source\repos\joao-Pedro26\Cassino1\CacaNiquel\obj\Debug\CacaNiquel.csproj.GenerateResource.cache
+C:\Users\ra2457066\source\repos\joao-Pedro26\Cassino1\CacaNiquel\obj\Debug\CacaNiquel.csproj.CoreCompileInputs.cache
+C:\Users\ra2457066\source\repos\joao-Pedro26\Cassino1\CacaNiquel\obj\Debug\CacaNiquel.exe
+C:\Users\ra2457066\source\repos\joao-Pedro26\Cassino1\CacaNiquel\obj\Debug\CacaNiquel.pdb
