@@ -12,9 +12,26 @@ namespace CacaNiquel
 {
     public partial class frmMegaSena : Form
     {
+        private Random Mega= new Random();
+        private int numSorteado;
+        private int[,] cartao;
         public frmMegaSena()
         {
             InitializeComponent();
+        }
+
+        private void btnSortearNumeros_Click(object sender, EventArgs e)
+        {
+            //Consistência de dados - Verificar qtde de cartões
+
+            if (String.IsNullOrWhiteSpace(txtQtdeCartoes.Text))
+            {
+                MessageBox.Show("Informe a qtde de cartões desejados!!",
+                                "Mega Sena",
+                                MessageBoxButtons.OK,
+                                MessageBoxIcon.Exclamation);
+                return;
+            }
         }
     }
 }

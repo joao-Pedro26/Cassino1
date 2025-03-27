@@ -18,3 +18,4 @@ C:\Users\ra2457066\source\repos\joao-Pedro26\Cassino1\CacaNiquel\obj\Debug\CacaN
 C:\Users\ra2457066\source\repos\joao-Pedro26\Cassino1\CacaNiquel\obj\Debug\CacaNiquel.csproj.CoreCompileInputs.cache
 C:\Users\ra2457066\source\repos\joao-Pedro26\Cassino1\CacaNiquel\obj\Debug\CacaNiquel.exe
 C:\Users\ra2457066\source\repos\joao-Pedro26\Cassino1\CacaNiquel\obj\Debug\CacaNiquel.pdb
+C:\Users\ra2457066\source\repos\joao-Pedro26\Cassino1\CacaNiquel\obj\Debug\CacaNiquel.frmMegaSena.resources
